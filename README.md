@@ -1,5 +1,5 @@
 # Projet projet-yassine-lounes-ipf
 ## Membres
-KEDBI Lounès ALIF Yassine Bar
+KEDBI Lounès ALIF Yassine
 ## Description
 Todo
